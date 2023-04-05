@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋🏻
+#### Neuroscience & Computer Science @ University of Chicago
+- 🛰️ ex-DL Researcher @nasa Ames Research Center
+- 🔭 I’m currently working on natural language processing
+- 🌱 I’m currently learning as much as possible
 
 <!--
 **jb-01/jb-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
