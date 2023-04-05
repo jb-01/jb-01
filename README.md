@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-#### Neuroscience & Computer Science @ University of Chicago
+- 📚 Neuroscience & Computer Science @ University of Chicago
 - 🛰️ ex-DL Researcher NASA Ames Research Center
 - 🔭 I’m currently working on natural language processing
 - 🌱 I’m currently learning as much as possible
