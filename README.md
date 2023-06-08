@@ -1,6 +1,6 @@
-### Hi there 👋🏻
-- 📚 Neuroscience & Computer Science @ University of Chicago
-- 🛰️ ex-DL Researcher NASA Ames Research Center
+### Hi there.
+- 📚 I'm studying neuroscience & computer science @ University of Chicago
+- 🛰️ prev DL Researcher at  NASA Ames Research Center
 - 🔭 I’m currently working on natural language processing
 - 🌱 I’m currently learning as much as possible
 
