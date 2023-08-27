@@ -1,7 +1,7 @@
 ### Hi there.
 - 📚 I'm studying undergraduate computer science & neuroscience @ University of Chicago
-- 🛰️ prev DL Researcher at  NASA Ames Research Center
 - 🔭 I’m currently working on natural language processing at Caltech
+- 🛰️ prev DL Researcher at  NASA Ames Research Center
 - 🌱 I’m currently learning as much as possible
 
 <!--
